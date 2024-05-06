@@ -1,0 +1,17 @@
+.Container {
+  height: 7rem;
+  background-color: rgb(52, 146, 153);
+  color: #ffff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button {
+  height: 5rem;
+  width: 20rem;
+  text-align: center;
+  margin: 1rem 0rem 0rem 10rem;
+  cursor: pointer;
+}
